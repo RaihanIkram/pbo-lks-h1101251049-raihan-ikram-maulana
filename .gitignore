@@ -1,0 +1,7 @@
+﻿/rest-api-perpustakaan/.env
+/rest-api-perpustakaan/vendor/
+/frontend-perpustakaan/node_modules/
+
+.DS_Store
+Thumbs.db
+*.log
